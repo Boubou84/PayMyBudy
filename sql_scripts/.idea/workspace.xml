@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5c59aec-52ae-4289-bf6b-8c80dd03a69b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../paymybuddy/src/main/java/com/paymybuddy/paymybuddy/entites/AccountBalances.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paymybuddy/src/main/java/com/paymybuddy/paymybuddy/entites/CompensationTransactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paymybuddy/src/main/java/com/paymybuddy/paymybuddy/entites/FailedTransactions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paymybuddy/src/main/java/com/paymybuddy/paymybuddy/entites/TransactionFees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../paymybuddy/src/main/java/com/paymybuddy/paymybuddy/entites/TransactionLogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paymybuddy/src/main/java/com/paymybuddy/paymybuddy/entites/Transactions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paymybuddy/src/main/java/com/paymybuddy/paymybuddy/entites/Transactions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paymybuddy/src/main/java/com/paymybuddy/paymybuddy/entites/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/../paymybuddy/src/main/java/com/paymybuddy/paymybuddy/entites/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../paymybuddy/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../paymybuddy/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_tables.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/insert_test_data.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Yrt0HtQ5Q5dVp3tSWcBnYJiH1Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/senepascal/Documents/Documents - MacBook Pro de Sene/Projet_6/sql_scripts"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5c59aec-52ae-4289-bf6b-8c80dd03a69b" name="Changes" comment="" />
+      <created>1701295301398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701295301398</updated>
+    </task>
+    <servers />
+  </component>
+</project>
